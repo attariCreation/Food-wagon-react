@@ -28,9 +28,8 @@ function Header() {
             </div>
           </span>
           <span id="login">
-            <span id="search" className="mx-3">
-              <i className="ri-search-line mx-1"></i>
-              search food
+            <span id="search" >
+              <a href="#">about </a>
             </span>
 
             <a href="#" className=" text-decoration-none py-2 px-4" id="log">
